@@ -5,7 +5,7 @@ from PIL import Image,ImageTk
 #launching standart tkinter window tk.tutorial-0
 #adjusting position of root windows tk.tutorial-1
 #binding keys tk.totorial-2
-#setting up app photos totorial-3
+#setting up app photos totorial-3.2
 
 root = tk.Tk()
 root.title("Root")
