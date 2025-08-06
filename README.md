@@ -2,6 +2,12 @@
 This repository contains Python files with examples using the Tkinter library. 
 The project is still a work in progress and not yet fully complete.
 
-This is a test project as you understand from the name.It doesn't mean anything in its current state. Even for me.
+Folder Hierarchy:
+  *tk-zero = For initail starting point in the project for leaning
+    main widget
+  
+  *Tkinter examples = Main folder includes the countinuing the tk-zero
 
-Maybe it would growth and would be a good scale tutorial repository when it went some step. 
+  *README.md = General information about project
+
+This is a test project as you understand from the name.It doesn't mean anything in its current state. Even for me.
