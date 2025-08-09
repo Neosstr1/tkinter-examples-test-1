@@ -3,11 +3,12 @@ This repository contains Python files with examples using the Tkinter library.
 The project is still a work in progress and not yet fully complete.
 
 Folder Hierarchy:
+  *Tkinter examples = Main folder includes the countinuing the tk-zero
 
+  *assets = assets, (i.e. images, fonts and additions)
+ 
   *tk-zero = For initail starting point in the project for leaning
     main widget
-  
-  *Tkinter examples = Main folder includes the countinuing the tk-zero
 
   *README.md = General information about project
 
