@@ -12,7 +12,7 @@ root.title("Tkinter - Root")
 root.configure(bg="lightblue") 
 root.configure(bg="#89F1E0") 
 
-img1 = tk.PhotoImage(file='/home/fedora1-41/prgm/tk.t/assets/image1.png')
+img1 = tk.PhotoImage(file='the/path/where/you/downloaded/this/tkinter-example-test-1/image1.png')
 #We are creting an object for using photo
 
 root.iconphoto(True,img1)
