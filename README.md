@@ -14,3 +14,5 @@ Folder Hierarchy:
   *README.md = General information about project
 
 This is a test project as you understand from the name.It doesn't mean anything in its current state. Even for me.
+
+If you want to contribute it, feel free.
