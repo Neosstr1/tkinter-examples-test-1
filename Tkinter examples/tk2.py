@@ -1,7 +1,5 @@
 import tkinter as tk
 
-#launching standart tkinter window tk.tutorial-0
-#adjusting position of root windows tk.tutorial-1
 #binding keys tk.tutorial-2
 
 root = tk.Tk()
