@@ -17,4 +17,7 @@ This is a test project as you understand from the name.It doesn't mean anything 
 
 If you want to contribute it, feel free.
 
-less then ayearthis repo wont get update
+less then ayear this repo wont get update
+
+after that time it will get updates and a full tutorial(08.10.2025)
+
