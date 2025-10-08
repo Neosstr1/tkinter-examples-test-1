@@ -17,4 +17,4 @@ This is a test project as you understand from the name.It doesn't mean anything 
 
 If you want to contribute it, feel free.
 
-for a couple of week this repo wont get update
+less then ayearthis repo wont get update
