@@ -1,4 +1,15 @@
 # tkinter-examples-test-1
+
+I geve up tkinter because of its layout complexity.
+In tkinter you have to design your layout via pack, grid and place.
+and you should design your layout one of them with code-based.
+
+take a look for Pyside and Pyqt for GUI ın python. 
+
+But I think  tkinter still worth  for its simplification and lightness for simple application
+
+
+
 This repository contains Python files with examples using the Tkinter library. 
 The project is still a work in progress and not yet fully complete.
 
